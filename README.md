@@ -34,8 +34,8 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=kimgeon0802&custom_title=Kim Geon's Github Stat&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true&custom_title=GitHub%20Stats Github Stat&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
           /> </div> 
     </div>
     
