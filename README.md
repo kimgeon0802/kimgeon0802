@@ -58,10 +58,12 @@
   <h2>🏅 GitHub Stats</h2>
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true&custom_title=GitHub%20Stats&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true"
   />
 
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
+    width="49%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true"
   />
 </div>
