@@ -28,7 +28,7 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href= https://kr.linkedin.com/in/kimgeon> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link= https://kr.linkedin.com/in/kimgeon"> </a>
+    <div align= "center"> <a href= https://kr.linkedin.com/in/kimgeon> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"&link= https://kr.linkedin.com/in/kimgeon"> </a>
          <a href=https://velog.io/@kimgeon0802> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@kimgeon0802"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
