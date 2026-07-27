@@ -57,9 +57,18 @@
 <div align="center">
   <h2>🏅 GitHub Stats</h2>
 
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true"/>
-
-  <img height="170em"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true"/>
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&hide_border=true&theme=default"
+        />
+      </td>
+      <td>
+        <img
+          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&hide_border=true&theme=default"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
