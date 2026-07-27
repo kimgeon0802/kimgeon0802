@@ -54,19 +54,12 @@
 
 <br>
 
-<table align="center">
+<div align="center">
   <h2>🏅 GitHub Stats</h2>
-<tr>
-<td>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true"/>
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=kimgeon0802&show_icons=true&theme=default&hide_border=true"/>
 
-</td>
-
-<td>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true"/>
-
-</td>
-</tr>
-</table>
+  <img height="170em"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kimgeon0802&layout=compact&theme=default&hide_border=true"/>
+</div>
